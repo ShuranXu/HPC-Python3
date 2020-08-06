@@ -23,6 +23,7 @@ This course has the following topics:<br/>
 ## Technical Requirements
 
 This course has the following software requirements:<br/>
+
 ● Python 3.5+ version<br/>
 ● Jupyter Notebook<br/>
 ● Any web browser for running jupyter notebook<br/>
